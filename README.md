@@ -1,1 +1,1 @@
-# daily_learning
+# daily-learning
