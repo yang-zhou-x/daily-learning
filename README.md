@@ -1,7 +1,8 @@
 # daily-learning
 
 2022/01/17: **Git与GitHub基础教程** <https://www.bilibili.com/video/BV1pW411A7a5>  
-&emsp;&emsp;&emsp;&emsp;&emsp;**Git官方文档** <https://git-scm.com/docs>  
+&emsp;&emsp;&emsp;&emsp;&emsp;**Git Reference** <https://git-scm.com/docs>  
+&emsp;&emsp;&emsp;&emsp;&emsp;**Pro Git**, 2nd Edition(2014) <https://git-scm.com/book/zh/v2>  
 2022/01/23: **Mac终端配置 Oh-My-Zsh** <https://ohmyz.sh>  
 2022/01/24: **Oh-My-Zsh插件** *zsh-autosuggestions、zsh-syntax-highlighting*  
 2022/01/27: **温铁军《十次危机》** <https://www.bilibili.com/video/BV1Da4y1x7WW>  
