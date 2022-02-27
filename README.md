@@ -11,3 +11,4 @@
 2022/02/05: **温铁军 《告别百年激进》** <https://www.bilibili.com/video/BV144411E7Np>  
 2022/02/06: **股票回购是好是坏** <https://www.bilibili.com/video/BV15J411H7c5>  
 2022/02/23: **《Control》** <https://www.epicgames.com/store/zh-CN/p/control>  
+2022/02/27: **Git飞行规则(Flight Rules)** <https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md>
