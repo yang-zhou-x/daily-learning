@@ -16,4 +16,5 @@
 2022/03/02: **基于Python语言的spark教程** <https://www.bilibili.com/video/BV1Jq4y1z7VP>  
 2022/03/06: **丹尼尔·卡尼曼《噪声》** <https://weread.qq.com/web/reader/d33327e0726c18a9d335459>  
 2022/03/21: **Cris Tales** 2021 <https://store.epicgames.com/zh-CN/p/cris-tales>  
-2022/04/10: **马特·里克特《优雅的守卫者》** <https://weread.qq.com/web/reader/5233203072007ec65239d71>
+2022/04/10: **马特·里克特《优雅的守卫者》** <https://weread.qq.com/web/reader/5233203072007ec65239d71>  
+2022/04/23: **《古墓丽影：崛起》20周年纪念版** <https://store.epicgames.com/zh-CN/p/rise-of-the-tomb-raider>
