@@ -19,3 +19,4 @@
 2022/04/10: **马特·里克特《优雅的守卫者》** <https://weread.qq.com/web/reader/5233203072007ec65239d71>  
 2022/04/23: **《古墓丽影：崛起》20周年纪念版** <https://store.epicgames.com/zh-CN/p/rise-of-the-tomb-raider>  
 2022/05/04: **《幽浮2》** XCOM2 <https://store.epicgames.com/zh-CN/p/xcom-2>
+2022/05/21: **《原神》** <https://ys.mihoyo.com/>
